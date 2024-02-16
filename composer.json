@@ -1,0 +1,21 @@
+{
+    "name": "marejeo/opensource",
+    "description": "Array manipulation",
+    "type": "library",
+    "require": {
+        "voku/arrayy": "^7.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Marejeo\\Opensource\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marejeo",
+            "email": "marejeo@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
